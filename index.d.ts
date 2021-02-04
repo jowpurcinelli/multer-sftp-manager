@@ -28,4 +28,4 @@ interface SFTPStorage {
 }
 
 declare const sftpStorage: SFTPStorage;
-export = sftpStorage;
+export default sftpStorage;
